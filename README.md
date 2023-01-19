@@ -1,9 +1,4 @@
-<p align="right">
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Khandaker-Atik"></a>
-</p>
-
-
-<h3 align="center"><b>Hey, This is Atikur Rahman... </b><img src="https://media.tenor.com/bSn0RWU_-8IAAAAC/emoji-hello.gif" width="35"></h3>
+<h2 align="center"><b>Hey, This is Atikur Rahman... </b><img src="https://media.tenor.com/bSn0RWU_-8IAAAAC/emoji-hello.gif" width="35"></h2>
 
 
 <br>
@@ -129,5 +124,10 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="right">
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Khandaker-Atik"></a>
+</p>
+
 
 
