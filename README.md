@@ -45,7 +45,7 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
    [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
    [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
    [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-   [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)]
+   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 
 <br>
 
