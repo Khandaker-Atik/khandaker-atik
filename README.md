@@ -35,7 +35,6 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 	
 	
-  
 
 <br>   
     
@@ -47,7 +46,6 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
    [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 
-<br>
 
 - **🛠 Tools**:
   <p>
@@ -58,37 +56,27 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
   </p>
 
 
-
 - **Database**:
-	
 	
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   	<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
 
 
-<br>
-
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br>
 
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
 - **Extras**:
 
 	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 	
-
 </p>
-
-<br>
 <br>
 
 -----
@@ -116,8 +104,6 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
 <br>
 
 -----
-
-<br>
 <br>
 
 ## <b>Connect with Me at</b>
