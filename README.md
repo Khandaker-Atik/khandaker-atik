@@ -19,7 +19,7 @@
 - ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
 - 🌐 Web: [<b>[Click here]</b>](https://Khandaker-atik.github.io/Atik)
 
-- 📃 Checkout my <b>[Resume]</b>(https://drive.google.com/file/d/1gpgFLWnxab7sFzP3WJPw96FlJ8fIruDd/view)</b>
+- 📃 Checkout my [<b>[Resume]</b>](https://drive.google.com/file/d/1gpgFLWnxab7sFzP3WJPw96FlJ8fIruDd/view)
 
 <br><br>
 
