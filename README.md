@@ -1,11 +1,12 @@
+<p align="right">
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Khandaker-Atik"></a>
+</p>
 
-<h1 align="center"><b>Hey, This is Atikur Rahman... </b><img src="https://media.tenor.com/bSn0RWU_-8IAAAAC/emoji-hello.gif" width="35"></h1>
 
-![Profile views](https://gpvc.arturio.dev/[khandaker_atik])
+<h3 align="center"><b>Hey, This is Atikur Rahman... </b><img src="https://media.tenor.com/bSn0RWU_-8IAAAAC/emoji-hello.gif" width="35"></h3>
 
 
 <br>
-
 
 
 	
