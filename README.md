@@ -41,10 +41,11 @@ Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWn
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
+   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
+   [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
+   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
+   [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)]
 
 <br>
 
