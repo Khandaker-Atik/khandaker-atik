@@ -1,7 +1,11 @@
 <h2 align="center"><b>Hey, This is Atikur Rahman... </b><img src="https://media.tenor.com/bSn0RWU_-8IAAAAC/emoji-hello.gif" width="35"></h2>
 
-
 <br>
+
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
 
 ## <picture><img src = "https://github.com/ashak-odree/ashak-odree/blob/main/gif/about_me.gif" width = 40px></picture> **About me**
 
@@ -109,16 +113,12 @@
 
 
 
-
-
 <a href="https://www.facebook.com/4t716/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashakuzzaman odree" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khandaker_atik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashak_odree" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/atikur-rahman1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashakuzzaman odree" height="30" width="40" /></a>
 <a href="https://twitter.com/Atiqkhandaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashak_odree" height="30" width="40" /></a>
 	
-	
-	
-	
+
 	
 
 
