@@ -10,13 +10,15 @@
 <picture> <img align="right" src="https://github.com/ashak-odree/ashak-odree/blob/main/gif/Right_Side.gif" width = 250px></picture>
 
 <br>
+- 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
+- 👷‍♂️ I’m working on Web Development
+- 🧠 Currently learning DBMS
+- 🔭 Looking for help with ML/Deep Learning/Blockchain
+- 📫 Mail me: [Khandakeratik43@gmail.com](mailto:Khandakeratik43@gmail.com)
+- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
+- 🌐 Web: [<b>[Click here]</b>](https://Khandaker-atik.github.io/Atik)
 
-I am from Bangladesh. Currently, I am studying at BRAC University.<br> 
-I am an undergraduate student in the Computer Science and Engineering department. <br>I want to work as an IT specialist.
-I am searching for ways to put my strong development skills to good use with an emphasis on cooperation,communication, enthusiasm,
-and innovation. <br>Moreover, I love writing poems and articles. I love traveling also. I love making videos over the phone because I think memories should be saved for future days.<br>
-<br>
-Want to see my RESUME? <b> [Click here](https://drive.google.com/file/d/1gpgFLWnxab7sFzP3WJPw96FlJ8fIruDd/view)</b>
+- 📃 Checkout my <b>[Resume]</b>(https://drive.google.com/file/d/1gpgFLWnxab7sFzP3WJPw96FlJ8fIruDd/view)</b>
 
 <br><br>
 
