@@ -3,8 +3,6 @@
 
 <br>
 
-
-	
 ## <picture><img src = "https://github.com/ashak-odree/ashak-odree/blob/main/gif/about_me.gif" width = 40px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/ashak-odree/ashak-odree/blob/main/gif/Right_Side.gif" width = 250px></picture>
