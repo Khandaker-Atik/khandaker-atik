@@ -10,6 +10,7 @@
 <picture> <img align="right" src="https://github.com/ashak-odree/ashak-odree/blob/main/gif/Right_Side.gif" width = 250px></picture>
 
 <br>
+
 - 🎓 Pursuing B. Sc in Computer Science and Engineering [(CSE)](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse) at [BRAC University](https://www.bracu.ac.bd/)
 - 👷‍♂️ I’m working on Web Development
 - 🧠 Currently learning DBMS
