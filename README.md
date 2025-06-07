@@ -11,6 +11,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
+      
         
 ## <picture><img src = "about_me.gif" width = 30px></picture> **About me**
 
